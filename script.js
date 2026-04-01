@@ -91,32 +91,32 @@ window.addEventListener('scroll', highlightNav, { passive: true });
 // youtubeId：YouTubeのURLの末尾にある動画ID（例: https://youtu.be/【ここ】）
 const videos = [
   {
-    youtubeId: 'https://youtu.be/4VYuk1N_qTQ',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: '4VYuk1N_qTQ',
     title: '定期演奏会 2026',
     desc: '2月、西南チャペルを貸し切り開催。ビッグバンドによる本格的な演奏会。'
   },
   {
-    youtubeId: 'https://youtu.be/tazuhvS-IsY',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: 'tazuhvS-IsY',
     title: '卒業コンパ セッション',
     desc: '卒業生を送る打ち上げでの即興演奏。ジャズ・スタンダードをみんなで自由にセッション。'
   },
   {
-    youtubeId: 'https://youtube.com/shorts/7fJcufKLDOo?feature=share',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: '7fJcufKLDOo',
     title: '練習風景',
     desc: '空き時間にワイワイと。様々な楽器でのびのびと音楽を楽しむ日常の一コマ。'
   },
   {
-    youtubeId: 'https://youtu.be/neNQP90k3cE',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: 'neNQP90k3cE',
     title: '学祭ライブ',
     desc: '五重奏による演奏。ジャズだけではなくいろんなジャンルも演奏できます！！'
   },
   {
-    youtubeId: 'https://youtu.be/SFz1otf_GgM',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: 'SFz1otf_GgM',
     title: 'ホームカミングデー',
     desc: '年に一度、西南のOB・OGが集まるイベントでの演奏の様子。各楽器のソロなどもジャズの魅力です。'
   },
   {
-    youtubeId: 'https://youtu.be/cZCG1uj8FiI',  // ← YouTubeの動画IDに書き換えてください
+    youtubeId: 'cZCG1uj8FiI',
     title: '定期演奏会に向けたビッグバンド練習',
     desc: 'ボーカルの演奏もあります！ジャズボーカルにあこがれる人も是非！'
   },
